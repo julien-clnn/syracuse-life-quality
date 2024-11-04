@@ -1,0 +1,13 @@
+streamlit
+streamlit_folium
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+shapely
+networkx
+osmnx
+contextily
+folium
+pyngrok
