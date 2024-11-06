@@ -1,5 +1,5 @@
 ## Access the project : 
-[https://syracuse-quality-life.streamlit.app/](https://syracuse-life-quality.streamlit.app/)
+[https://syracuse-life-quality.streamlit.app/](https://syracuse-life-quality.streamlit.app/)
 
 ## About the Project
 This project aims to calculate a quality of life score for neighborhoods in Syracuse, New York, using data on safety, parks, and healthcare accessibility. The tool offers insights by providing a score that can support urban planning or other initiatives.
